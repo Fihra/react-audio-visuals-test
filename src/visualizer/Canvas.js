@@ -1,5 +1,5 @@
 import React, { Component, createRef } from 'react';
-import songFile from '../audio/FirahFabe - Searching Intrinsic Worth.wav';
+import songFile from '../audio/Lost Sphear - Battle.mp3';
 
 let ctx, x_end, y_end, bar_height;
 
